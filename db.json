@@ -21,7 +21,11 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+    "userName" :" Fred",
+    "userEmail" : "fred@example.com"
+  ],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
